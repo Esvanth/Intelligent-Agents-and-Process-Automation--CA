@@ -1,0 +1,29 @@
+Job Title: Junior Data Analyst
+Company: Brightline Analytics Ltd, Dublin
+Reports to: Senior Data Analyst
+
+Role Summary
+We are hiring a Junior Data Analyst to join our Insights team. The role will support business teams in turning raw data into clear, actionable reports. The successful candidate will work with Python, SQL, and visualisation tools to build dashboards and ad-hoc analyses.
+
+Key Responsibilities
+- Pull, clean, and join data from internal databases using SQL.
+- Build dashboards and reports in Power BI or Tableau.
+- Write Python scripts for data manipulation and basic statistical analysis.
+- Communicate findings clearly to non-technical stakeholders.
+- Document data sources and transformations.
+
+Essential Requirements
+- Bachelor's degree in a quantitative subject.
+- Working knowledge of Python (pandas, NumPy).
+- Strong SQL skills.
+- Experience with at least one visualisation tool.
+- Good written and spoken English.
+
+Desirable
+- Exposure to cloud platforms.
+- Familiarity with Git.
+- Experience presenting to business audiences.
+
+Location: Dublin (hybrid, 2 days in office)
+Contract: Permanent, full-time
+Salary: 38,000 to 45,000 EUR depending on experience

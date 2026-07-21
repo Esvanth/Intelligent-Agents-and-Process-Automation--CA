@@ -1,0 +1,8 @@
+[
+  {"sender_name":"Aoife Kelly","sender_email":"aoife.kelly@example.com","subject":"Application for Junior Data Analyst","cv_path":"data/sample_cvs/cv_aoife_kelly.pdf"},
+  {"sender_name":"Rohan Mehta","sender_email":"rohan.mehta@example.com","subject":"Application: Junior Data Analyst role","cv_path":"data/sample_cvs/cv_rohan_mehta.pdf"},
+  {"sender_name":"Emma O'Brien","sender_email":"emma.obrien@example.com","subject":"Junior Data Analyst application","cv_path":"data/sample_cvs/cv_emma_obrien.pdf"},
+  {"sender_name":"Liam Dunne","sender_email":"liam.dunne@example.com","subject":"Job application","cv_path":"data/sample_cvs/cv_liam_dunne.pdf"},
+  {"sender_name":"Priya Raman","sender_email":"priya.raman@example.com","subject":"Application for the Junior Data Analyst position","cv_path":"data/sample_cvs/cv_priya_raman.pdf"},
+  {"sender_name":"Sean Murphy","sender_email":"sean.murphy@example.com","subject":"Application - Junior Data Analyst","cv_path":"data/sample_cvs/cv_sean_murphy.pdf"}
+]
