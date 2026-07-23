@@ -9,7 +9,7 @@ Total word count: ~940 words = about 6:45 at 140 wpm.
 
 ## Slide 1 - Title (0:00 to 0:25)
 
-"Hi, I'm Esvanth Sivanesan, student number x-two-four-three-one-one-oh-seven-three.
+"Hi, I'm Esvanth Mohankumar, student number x-two-four-three-one-one-oh-seven-three.
 For my H9IAPA CA I built an end-to-end automation of the recruitment intake
 and shortlisting process at a fictional Dublin analytics firm called
 Brightline Analytics. It combines a deterministic RPA layer with an agentic

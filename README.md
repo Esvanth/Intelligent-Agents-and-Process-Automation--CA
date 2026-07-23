@@ -4,7 +4,15 @@ H9IAPA Continuous Assessment, MSc AI, National College of Ireland.
 Name:Esvanth Mohankumar
 Student Id:24311073
 
-Github Link:
+# Intelligent Agents and Process Automation
+
+Automates candidate intake and shortlisting for a Junior Data Analyst.
+
+🔗 **Live Demo:**  
+https://intelligent-agents-and-process-automation--ca-3vcfmp6mlh6vbsed.streamlit.app/
+
+📂 **GitHub Repository:**  
+https://github.com/Esvanth/Intelligent-Agents-and-Process-Automation--CA
 
 Automates candidate intake and shortlisting for a Junior Data Analyst role
 at a fictional company, Brightline Analytics. Two distinct automation types:
