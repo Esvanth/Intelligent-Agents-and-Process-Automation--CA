@@ -439,32 +439,6 @@ with st.sidebar:
         RESULTS_PATH.unlink()
         st.rerun()
 
-    st.markdown('<div class="sidebar-label">System Mode</div>', unsafe_allow_html=True)
-    mode = os.getenv("SCORER_MODE", "llm")
-    model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
-    mode_color = SUCCESS if mode == "llm" else WARNING
-    st.markdown(f"""
-    <div style="padding:10px 12px; background:{BG}; border-radius:8px; border:1px solid #E2E8F0; font-size:12px;">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
-            <span style="color:{MUTED}; font-weight:500;">Scorer</span>
-            <span class="pill" style="background:{mode_color}20; color:{mode_color}; padding:2px 8px; font-size:10px;">{mode.upper()}</span>
-        </div>
-        <div style="display:flex; justify-content:space-between; align-items:center;">
-            <span style="color:{MUTED}; font-weight:500;">Model</span>
-            <code style="font-size:10px; color:{INK};">{model.split('-')[0]}</code>
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
-
-    st.markdown('<div class="sidebar-label">About</div>', unsafe_allow_html=True)
-    st.markdown(f"""
-    <div style="font-size:11px; color:{MUTED}; line-height:1.6;">
-        H9IAPA CA · Esvanth Sivanesan · x24311073<br>
-        Recruitment intake automation with RPA + Agentic AI (Llama 3.3 via Groq).
-        Human-in-the-loop preserved for EU AI Act compliance.
-    </div>
-    """, unsafe_allow_html=True)
-
 # ---------------------------------------------------------------------------
 # EMPTY STATE
 # ---------------------------------------------------------------------------
